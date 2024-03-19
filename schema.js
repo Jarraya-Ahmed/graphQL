@@ -6,7 +6,7 @@ type: Game {
     platform:[String!]!
 }
 
-type: Review {
+type: Review { 
     id:ID!
     rating:Int!
     content:String!
